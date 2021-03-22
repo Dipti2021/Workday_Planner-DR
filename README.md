@@ -1,5 +1,5 @@
 # Workday_Planner-DR
-It is a  calendar application that allows a user to save events for each hour of the day by modifying starter code
+
 
 ## Table of Contents
 * [Introduction](#introduction)
@@ -10,7 +10,7 @@ It is a  calendar application that allows a user to save events for each hour of
 * [Credits](#credits)
 
  ## Introduction 
-The random password generated has been created keeping in mind various factors. Depending on them, it will present the output for you that has been created by using updated HTML and CSS which are powered by JavaScript code It has a clean and polished, responsive user interface that adapts to multiple screen sizes.
+It is a  calendar application that allows a user to save events for each hour of the day by modifying starter code.My aim was to create a work day planner for each hour of a day from 9am to 6 pm. ican storemy schedule using local storage and it is built using **Javascript** programming language along with the help of certain libraries like ***Bootstrap,moment.js and jQuery*** to name a few.
  
  
  ## Screenshot of the Application
@@ -26,7 +26,6 @@ The random password generated has been created keeping in mind various factors. 
     In the __third__ situation, a password is generated depending upon the conditions which have been accepted by the user.
  
 
-![password](https://user-images.githubusercontent.com/77368913/110028466-47531a80-7d01-11eb-82c0-976ffdb104a2.gif)
 
 
  
