@@ -20,14 +20,13 @@ It is a  calendar application that allows a user to save events for each hour of
  ![Image](workday.png)
  
  ## Working of the Application
-  The working has been explained in the below given points.
-     1. A schedule between the time from __9 am to 6 pm__ has been created and the current day day and time are displayed on the top of the page.
-     2. The planner is created for __an hour__ each.
-     3. The user is required to choose a time slot to __enter a task__ which are then __stored__ in the __local storage__.
-     4. Even on __refreshing__ the page, the task is __still accessible__ to the user.
-     5. The workday id divided into three classes, namely, past, present and future.
-     6. The __three colors__, which are grey,red and green have been __related__ with the respective classes.
-     7. The Planner gets __updated__ to a __new day and a new time__ if you click on in on any __other__ day.
+   A schedule between the time from __9 am to 6 pm__ has been created and the current day day and time are displayed on the top of the page.
+   The planner is created for __an hour__ each.
+   The user is required to choose a time slot to __enter a task__ which are then __stored__ in the __local storage__.
+   Even on __refreshing__ the page, the task is __still accessible__ to the user.
+   The workday id divided into three classes, namely, past, present and future.
+   The __three colors__, which are grey,red and green have been __related__ with the respective classes.
+    The Planner gets __updated__ to a __new day and a new time__ if you click on in on any __other__ day.
    
 
  
