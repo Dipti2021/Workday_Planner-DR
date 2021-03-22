@@ -32,8 +32,8 @@ It is a  calendar application that allows a user to save events for each hour of
  
  
  ## Installations
-   * [The URL of the Github repo](https://github.com/Dipti2021/Password_Generator_DR)
-   * [The URL of the deployed application](https://dipti2021.github.io/Password_Generator_DR/)
+   * [The URL of the Github repo](https://github.com/Dipti2021/Workday_Planner-DR)
+   * [The URL of the deployed application](https://dipti2021.github.io/Workday_Planner-DR)
  
 
   *Keeping all these conditions in mind, I have created the Javascript code using the if, else if else conditions along with the code snippets taken from various libraries*
