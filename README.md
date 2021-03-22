@@ -1,8 +1,6 @@
 # Workday_Planner-DR
 It is a  calendar application that allows a user to save events for each hour of the day by modifying starter code
 
-# Password_Generator_DR
-I was required to modify the starter code to create an application that enables employees to generate random passwords based on criteria that they’ve selected.
 ## Table of Contents
 * [Introduction](#introduction)
 * [Screenshot of the Application](#webpage)
