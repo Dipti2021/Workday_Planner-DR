@@ -17,7 +17,7 @@ The random password generated has been created keeping in mind various factors. 
  The screenshot of the application looks almost similar to the one as shown here.
 
  
- ![Image](assets/Password_screenshot.png)
+ ![Image](workday.png)
  
  ## Working of the Application
   The below shows video shows how the code will respond to __three__ different situations.
