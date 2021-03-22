@@ -6,7 +6,7 @@
 * [Screenshot of the Application](#webpage)
 * [Working of the Application](#web)
 * [Installations](#installations)
-* [Assignment details](#details)
+* [Libraries taken](#details)
 * [Credits](#credits)
 
  ## Introduction 
@@ -20,30 +20,31 @@ It is a  calendar application that allows a user to save events for each hour of
  ![Image](workday.png)
  
  ## Working of the Application
-  The below shows video shows how the code will respond to __three__ different situations.
-    __First__ being the onein which we enter the password length with is not between 8 and 128.
-    __Second__ shows the generations of the password when all the conditions are termed OK.
-    In the __third__ situation, a password is generated depending upon the conditions which have been accepted by the user.
+  The working has been explained in the below given points.
+    1. A schedule between the time from __9 am to 6 pm__ has been created and the current day day and time are displayed on the top of the page.
+    2. The planner is created for __an hour__ each.
+    3. The user is required to choose a time slot to __enter a task__ which are then __stored__ in the __local storage__.
+    4. Even on __refreshing__ the page, the task is __still accessible__ to the user.
+    5. The workday id divided into three classes, namely, past, present and future.
+    6. The __three colors__, which are grey,red and green have been __related__ with the respective classes.
+    7. The Planner gets __updated__ to a __new day and a new time__ if you click on in on any __other__ day.
+   
+
  
-
-
-
  
  ## Installations
    * [The URL of the Github repo](https://github.com/Dipti2021/Password_Generator_DR)
    * [The URL of the deployed application](https://dipti2021.github.io/Password_Generator_DR/)
  
- ## Assignment Details
-  The random password generator has been created using HTML, CSS and Javascript to code.The aaplication has been created keeping in mind the following conditions:
-   * This application can be used to generate a random password between 8 and 128 characters.
-   * It is upto the discretion of the user to choose how they want to construct their password. 
-   * The password can be created using uppercase letters, lowercase letters, numeric characters, and special characters.
-   * If the number entered by the user does not fall in the given range, then no password will be generated.
-   * Depending upon the prompts chosen by the user, the password will be generated accordingly.
 
-  *Keeping all these conditions in mind, I have created the Javascript code using the if, else if and else conditions to generate the required password.On generating a random string of characters, they were joined and presented as a password using functions like*  `.concat()`, `math.floor()` and `math.random()`
-    
- 
+  *Keeping all these conditions in mind, I have created the Javascript code using the if, else if else conditions along with the code snippets taken from various libraries*
+  
+ ## Libraries taken
+   * [Bootstrap](https://getbootstrap.com/).
+   * [jQuery](https://jquery.com/).
+   * [moment.js](https://momentjs.com/).
+
+
  ## Credits
     The homework has been assigned to me by the Carleton University Coding Bootcamp, our instructor and the TA's
    
